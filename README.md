@@ -10,14 +10,21 @@ ayo
 
 i wanna talk
 
-i wanna call you and talk
+i to  call you and talk
 
-i wanna walk to your front door and knock
+i wanna walk to your word  door and knock
 
-after i stop my vehicle
+after i stop my vehicled()
+
 
 drive to your city
-
+drive to your city
+drive to your city
+drive to your city
+drive to your city
+drive to your city
+drive to your city
+drive to your city
 cause we live an hour apart
 
 land in your driveway and put it in park
