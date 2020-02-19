@@ -1,11 +1,11 @@
 # poem
 Write a poem with me please
 
+## CS Club Discord Link
 Join the discord at https://discord.gg/c2fr6kJ
 
-is this free verse because it dose not rhyme 
-
-
+## Poems
+### Poem One
 ayo
 i wanna talk
 i wanna call you and talk
@@ -16,6 +16,6 @@ cause we live an hour apart
 land in your driveway and put it in park
 then do the third line of this verse
 
-
+### Poem Two
 Roses are every color but red....
 
