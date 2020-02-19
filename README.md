@@ -1,5 +1,6 @@
 # poem
 Write a poem with me please
+
 Join the discord at https://discord.gg/c2fr6kJ
 
 ayo
@@ -11,3 +12,6 @@ drive to your city
 cause we live an hour apart
 land in your driveway and put it in park
 then do the third line of this verse
+
+Roses are every color but red....
+
