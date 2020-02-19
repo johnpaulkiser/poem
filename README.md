@@ -1,11 +1,11 @@
 # poem
 Write a poem with me please
 
+## CS Club Discord Link
 Join the discord at https://discord.gg/c2fr6kJ
 
-is this free verse because it dose not rhyme 
-
-
+## Poems
+### Poem One
 ayo
 
 i wanna talk
@@ -23,6 +23,7 @@ cause we live an hour apart
 land in your driveway and put it in park
 
 then do the third line of this verse
+
 
 ...
 
@@ -50,5 +51,8 @@ T, i'm santa
 
 where's rudolph?
 
-Roses are every color but red....
 
+### Poem Two
+
+Roses are every color but red....
+I dont think that's true..
